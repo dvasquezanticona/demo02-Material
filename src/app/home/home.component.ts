@@ -46,4 +46,4 @@ export class HomeComponent implements OnInit {
     description ?: string;
   }
 
-}
+

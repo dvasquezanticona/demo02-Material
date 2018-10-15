@@ -1,0 +1,28 @@
+.demo-toolbar {
+    padding: 6px;
+} 
+    .demo-toolbar-icon {
+      padding: 0 14px;
+    }
+  
+    .demo-fill-remaining {
+      flex: 1 1 auto;
+    }
+  
+    button {
+      margin: 0 4px;
+    }
+
+    .example-card {
+        display: flex;
+        flex-flow: column nowrap;
+    }
+
+    .example-form {
+        min-width: 150px;
+        max-width: 500px;
+        width: 100%;
+      }
+      .example-full-width {
+        width: 100%;
+      }      
